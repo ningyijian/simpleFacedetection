@@ -7,7 +7,6 @@
     - 将识别的脸部提取出来，存成jpg文件。
     - 屏幕打印识别到的脸与眼睛数量。
 
-![图片](2018-12-10-17-12-42.png)
-![脸](2018-12-10-17-07-07.png)
+![图片](https://github.com/ningyijian/simpleFacedetection/blob/master/dst_screenshot_11.12.2018.png)
 
-
+![脸](https://github.com/ningyijian/simpleFacedetection/blob/master/0.jpg)
